@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Scala\Study\№6\target\scala-2.13\-6_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Labkada[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\Labkada[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Labkada\Change$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\Labkada\Change$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Labkada\Change.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\Labkada\Change.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Labkada\FilterByType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\Labkada\FilterByType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Labkada\FilterByType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\Labkada\FilterByType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Labkada\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\Labkada\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Labkada\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\Labkada\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Labkada\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\Labkada\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Labkada\MyContains$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\Labkada\MyContains$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Labkada\MyContains.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\Labkada\MyContains.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Labkada\untitled.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\Labkada\untitled.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF\№6.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Scala\Study\№6\target\scala-2.13\classes\META-INF\№6.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
